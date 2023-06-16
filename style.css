@@ -1,0 +1,22 @@
+.box{
+    width: 250px;
+    height: 250px;
+    background-color: #ccc;
+}
+footer  {
+    height: 10vh;
+}
+.foto{
+    width: 150px;
+    height: 150px;
+    background-color: #ccc
+    
+}
+h1{
+    border-bottom: 5px solid #000c32;
+    border-top: 5px solid #000c32;
+}
+h3{
+    border-top-style: dotted;
+    border: color:#000c32;
+}
